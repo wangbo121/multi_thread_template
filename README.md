@@ -1,0 +1,2 @@
+# multi_thread_template
+Linux平台下多线程定时运行maintask以及loopfast，loopslow的模板
